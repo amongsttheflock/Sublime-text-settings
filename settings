@@ -3,7 +3,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-nord.tmTheme",
+	"color_scheme": "Packages/Atomic Color Scheme/Atomic - Dark blue (Soft).tmTheme",
 	"copy_with_empty_selection": false,
 	"drag_text": false,
 	"draw_minimap_border": true,
@@ -66,3 +66,4 @@
 	"use_simple_full_screen": true,
 	"word_wrap": true
 }
+
