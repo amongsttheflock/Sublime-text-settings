@@ -1,4 +1,3 @@
-```
 {
     "auto_formatting": true,
     "autoformat_ignore":
@@ -16,4 +15,3 @@
     "display_signatures": false,
     "disable_anaconda_completion": true
 }
-```
